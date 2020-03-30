@@ -1,5 +1,5 @@
 firsta
 
-sec ond
+second
 
 third
