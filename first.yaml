@@ -1,7 +1,8 @@
-right: false
-remain: grew
-creature: roll
-smooth: false
-tight: true
-stuck: science
-political: electric
+remain: |-
+  grew
+  new line
+creature: rodar
+smooth: falso
+tight: cierto
+stuck: Ciencias
+political: eléctrico
