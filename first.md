@@ -1,5 +1,0 @@
-firsta
-
-second
-
-third
