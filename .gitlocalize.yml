@@ -1,4 +1,14 @@
+ 
 pretranslate:
   segments:
     ignore_patterns:
-    - "/{%\s?([a-zA-Z'\"\s]*)\s?%}/"
+    - /{%\s?([a-zA-Z'\"\s]*)\s?%}/
+    - /{%\s?Aside\s?('[a-z]+')?\s?%}/
+    - "Native"
+    - "^(title|authors|date|description): "
+
+  paths:
+  - source: "src/site/content/en/angular"
+    include:
+    - "**/index.md"
+    - "accessible-angular-with-codelyzer/index.md"
