@@ -1,2 +1,8 @@
+pretranslate:
+  paths:
+  - source: "src/site/content/en/angular"
+    include:
+    - "**/index.md"
+    - "accessible-angular-with-codelyzer/index.md"
 settings:
   ignore_escaped_strings: true
