@@ -1,0 +1,1 @@
+Users interact directly with the ad by tapping the system rendered [call to action](story_ads_best_practices.md#call-to-action-button-text-enum) button that appears in the bottom third of all Web Story ads.  The button can be configured to send the user to an arbitrary URL (or to the relevant app store).
